@@ -19,8 +19,4 @@
     "frameworks": "*",
     "platforms": "*",
     "headers": "RadioLib.h",
-    "build":
-    {
-        "libLDFMode": "chain+"
-    }
 }
